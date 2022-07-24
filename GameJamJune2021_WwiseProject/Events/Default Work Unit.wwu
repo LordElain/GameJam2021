@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{1298E8E4-3459-49B1-97EB-F784A016ADB2}" SchemaVersion="103">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{1298E8E4-3459-49B1-97EB-F784A016ADB2}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Enemy_Hit_SFX" ID="{50DBEC03-2929-4B8D-B5D9-B59474B841DF}">
+					<ChildrenList>
+						<Action Name="" ID="{4767683E-7E26-425E-9701-D0CB295DD1A4}" ShortID="89859712">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ENEMY HITS" ID="{7B955BBB-699D-4456-88DB-7C2C9C544AAA}" WorkUnitID="{B5C3B291-21B2-470D-92CB-E365DBE4A906}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Player_Attack_SFX" ID="{DA615124-EB93-4C45-9269-2FE523378F2E}">
+					<ChildrenList>
+						<Action Name="" ID="{799EA97D-BED9-4374-8176-BD5EFE1FE027}" ShortID="131440281">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Playe_Hit" ID="{1B0E448F-E2B2-4999-B0BB-07A79CEB8839}" WorkUnitID="{B5C3B291-21B2-470D-92CB-E365DBE4A906}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Earth_Music" ID="{3459D106-39D5-4EA9-BFA3-8162783691B7}">
+					<ChildrenList>
+						<Action Name="" ID="{582342F5-CCB4-4602-89B7-2A842F688769}" ShortID="157746311">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="22"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Earth" ID="{4B6D9AB4-C794-418D-BBED-6ECE1DBCF013}" WorkUnitID="{8D04B90B-344E-4F7D-BCBF-7F0493A7AAE3}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{E20BAD13-B158-403E-98C5-F64ADD0F6601}" ShortID="185787707">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Game_Music" ID="{E7843B59-E0DA-4125-A28D-099A3043E75C}" WorkUnitID="{14530923-B409-45BF-BE47-7873C2BDEF47}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Hell_Music" ID="{53D51C04-73FB-4B1F-9AAB-49B56F2E4606}">
+					<ChildrenList>
+						<Action Name="" ID="{1A9C5D0A-BED8-48C1-BFE1-F6CAA08A7524}" ShortID="173823677">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="22"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Hell" ID="{A03363CF-900E-4C21-97DC-751199ED47E0}" WorkUnitID="{8D04B90B-344E-4F7D-BCBF-7F0493A7AAE3}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{056B5E3D-5059-4C26-9D6E-D51D970E715D}" ShortID="760121733">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Game_Music" ID="{E7843B59-E0DA-4125-A28D-099A3043E75C}" WorkUnitID="{14530923-B409-45BF-BE47-7873C2BDEF47}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Earth_ResumeMusic" ID="{7A111618-5043-4219-B2EF-EA6434B40A4F}">
+					<ChildrenList>
+						<Action Name="" ID="{2B65E329-09F6-4505-A167-97791B98CCA0}" ShortID="919754246">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="9"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Kubbi_Overworld" ID="{1F5BC6AF-C794-4C43-AE44-9779528E7940}" WorkUnitID="{14530923-B409-45BF-BE47-7873C2BDEF47}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{AB782E18-25AC-4C3A-AA84-EC3B77FE9FFE}" ShortID="665868787">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="7"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Kubbi _ Ember" ID="{65FCE511-D599-45A0-96BA-321EAF64D6C7}" WorkUnitID="{14530923-B409-45BF-BE47-7873C2BDEF47}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Hell_ResumeMusic" ID="{3B0CE6FF-D9D0-434A-AB03-AD49BACCFB27}">
+					<ChildrenList>
+						<Action Name="" ID="{53B2700A-627E-4050-9487-AD1967861AFD}" ShortID="850889169">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="9"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Kubbi _ Ember" ID="{65FCE511-D599-45A0-96BA-321EAF64D6C7}" WorkUnitID="{14530923-B409-45BF-BE47-7873C2BDEF47}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{F98190C6-8299-498C-B925-95677D8AC8A3}" ShortID="201357581">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="7"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Kubbi_Overworld" ID="{1F5BC6AF-C794-4C43-AE44-9779528E7940}" WorkUnitID="{14530923-B409-45BF-BE47-7873C2BDEF47}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
