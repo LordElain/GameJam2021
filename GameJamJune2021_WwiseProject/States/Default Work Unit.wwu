@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{8D04B90B-344E-4F7D-BCBF-7F0493A7AAE3}" SchemaVersion="103">
+	<States>
+		<WorkUnit Name="Default Work Unit" ID="{8D04B90B-344E-4F7D-BCBF-7F0493A7AAE3}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="Earth_or_Hell" ID="{00F203B3-C218-4A9F-9AFE-E19E8D197B2B}">
+					<ChildrenList>
+						<State Name="None" ID="{A3183AC1-362E-4C4D-8226-6BB69097F0EB}"/>
+						<State Name="Earth" ID="{4B6D9AB4-C794-418D-BBED-6ECE1DBCF013}"/>
+						<State Name="Hell" ID="{A03363CF-900E-4C21-97DC-751199ED47E0}"/>
+					</ChildrenList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

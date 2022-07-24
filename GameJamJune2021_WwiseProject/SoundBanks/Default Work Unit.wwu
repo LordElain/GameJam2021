@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{AB9016EA-E747-4054-942C-D75971594020}" SchemaVersion="103">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{AB9016EA-E747-4054-942C-D75971594020}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Main" ID="{F1138C1A-8AF7-4C20-88F2-14408D919037}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Earth_ResumeMusic" ID="{7A111618-5043-4219-B2EF-EA6434B40A4F}" WorkUnitID="{1298E8E4-3459-49B1-97EB-F784A016ADB2}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Hell_ResumeMusic" ID="{3B0CE6FF-D9D0-434A-AB03-AD49BACCFB27}" WorkUnitID="{1298E8E4-3459-49B1-97EB-F784A016ADB2}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Hell_Music" ID="{53D51C04-73FB-4B1F-9AAB-49B56F2E4606}" WorkUnitID="{1298E8E4-3459-49B1-97EB-F784A016ADB2}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Enemy_Hit_SFX" ID="{50DBEC03-2929-4B8D-B5D9-B59474B841DF}" WorkUnitID="{1298E8E4-3459-49B1-97EB-F784A016ADB2}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Player_Attack_SFX" ID="{DA615124-EB93-4C45-9269-2FE523378F2E}" WorkUnitID="{1298E8E4-3459-49B1-97EB-F784A016ADB2}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Earth_Music" ID="{3459D106-39D5-4EA9-BFA3-8162783691B7}" WorkUnitID="{1298E8E4-3459-49B1-97EB-F784A016ADB2}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>
