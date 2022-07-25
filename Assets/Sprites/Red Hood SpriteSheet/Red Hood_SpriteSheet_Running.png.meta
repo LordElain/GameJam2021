@@ -1,0 +1,696 @@
+fileFormatVersion: 2
+guid: bea9eb49490670143ba92af7a47e16e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2563505654238599649
+    second: Red Hood_SpriteSheet_Running_0
+  - first:
+      213: 5045064505631693647
+    second: Red Hood_SpriteSheet_Running_1
+  - first:
+      213: 631672132978532738
+    second: Red Hood_SpriteSheet_Running_2
+  - first:
+      213: -9040382171705135524
+    second: Red Hood_SpriteSheet_Running_3
+  - first:
+      213: 8716778234835724560
+    second: Red Hood_SpriteSheet_Running_4
+  - first:
+      213: 8297763229321475938
+    second: Red Hood_SpriteSheet_Running_5
+  - first:
+      213: -3893130731237377263
+    second: Red Hood_SpriteSheet_Running_6
+  - first:
+      213: -1284989113744425269
+    second: Red Hood_SpriteSheet_Running_7
+  - first:
+      213: -7073074633990698781
+    second: Red Hood_SpriteSheet_Running_8
+  - first:
+      213: -5170730802418982605
+    second: Red Hood_SpriteSheet_Running_9
+  - first:
+      213: -5526710960226307379
+    second: Red Hood_SpriteSheet_Running_10
+  - first:
+      213: 7435309281501242127
+    second: Red Hood_SpriteSheet_Running_11
+  - first:
+      213: 1070004001275958160
+    second: Red Hood_SpriteSheet_Running_12
+  - first:
+      213: -1024584434600102791
+    second: Red Hood_SpriteSheet_Running_13
+  - first:
+      213: -6904499460781183913
+    second: Red Hood_SpriteSheet_Running_14
+  - first:
+      213: 2184199802208275073
+    second: Red Hood_SpriteSheet_Running_15
+  - first:
+      213: 1157933207506352225
+    second: Red Hood_SpriteSheet_Running_16
+  - first:
+      213: -1562452363838930705
+    second: Red Hood_SpriteSheet_Running_17
+  - first:
+      213: 8656039467248574663
+    second: Red Hood_SpriteSheet_Running_18
+  - first:
+      213: -7480181259801305060
+    second: Red Hood_SpriteSheet_Running_19
+  - first:
+      213: -5152936256536397034
+    second: Red Hood_SpriteSheet_Running_20
+  - first:
+      213: -2293912482644045204
+    second: Red Hood_SpriteSheet_Running_21
+  - first:
+      213: 5218559408839088778
+    second: Red Hood_SpriteSheet_Running_22
+  - first:
+      213: 933959473325817941
+    second: Red Hood_SpriteSheet_Running_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Red Hood_SpriteSheet_Running_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 37
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9d89c7fc6639320800000000000000
+      internalID: 2563505654238599649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_SpriteSheet_Running_1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 40
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bdb1f107ba30640800000000000000
+      internalID: 5045064505631693647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_SpriteSheet_Running_2
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 43
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281e2bc457624c800800000000000000
+      internalID: 631672132978532738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_SpriteSheet_Running_3
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 45
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5eadb5105c1a8280800000000000000
+      internalID: -9040382171705135524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_SpriteSheet_Running_4
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 43
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0196d310f9738f870800000000000000
+      internalID: 8716778234835724560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_SpriteSheet_Running_5
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 38
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267310291b3972370800000000000000
+      internalID: 8297763229321475938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_SpriteSheet_Running_6
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 37
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b70740a32d8f9c0800000000000000
+      internalID: -3893130731237377263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_SpriteSheet_Running_7
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 37
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcef40f853dca2ee0800000000000000
+      internalID: -1284989113744425269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_SpriteSheet_Running_8
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 37
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8882b581467dd90800000000000000
+      internalID: -7073074633990698781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_SpriteSheet_Running_9
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 37
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33165ac1bbfdd38b0800000000000000
+      internalID: -5170730802418982605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_SpriteSheet_Running_10
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 37
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2f377d9ad2d43b0800000000000000
+      internalID: -5526710960226307379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_SpriteSheet_Running_11
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 37
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03eb07c5668f2760800000000000000
+      internalID: 7435309281501242127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_SpriteSheet_Running_12
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 38
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093dc4458fa69de00800000000000000
+      internalID: 1070004001275958160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_SpriteSheet_Running_13
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 40
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974344d92e1f7c1f0800000000000000
+      internalID: -1024584434600102791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_SpriteSheet_Running_14
+      rect:
+        serializedVersion: 2
+        x: 3079
+        y: 43
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ce240725a4e20a0800000000000000
+      internalID: -6904499460781183913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_SpriteSheet_Running_15
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 45
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a4a11d526df4e10800000000000000
+      internalID: 2184199802208275073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_SpriteSheet_Running_16
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 43
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1687b030e1ec11010800000000000000
+      internalID: 1157933207506352225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_SpriteSheet_Running_17
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 39
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe049e27add015ae0800000000000000
+      internalID: -1562452363838930705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_SpriteSheet_Running_18
+      rect:
+        serializedVersion: 2
+        x: 3935
+        y: 37
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0ec17a80e602870800000000000000
+      internalID: 8656039467248574663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_SpriteSheet_Running_19
+      rect:
+        serializedVersion: 2
+        x: 4149
+        y: 37
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c106202a6ce013890800000000000000
+      internalID: -7480181259801305060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_SpriteSheet_Running_20
+      rect:
+        serializedVersion: 2
+        x: 4362
+        y: 37
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bbaeea6c71d78b0800000000000000
+      internalID: -5152936256536397034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_SpriteSheet_Running_21
+      rect:
+        serializedVersion: 2
+        x: 4573
+        y: 37
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62da2e20c26a20e0800000000000000
+      internalID: -2293912482644045204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_SpriteSheet_Running_22
+      rect:
+        serializedVersion: 2
+        x: 4785
+        y: 37
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a502b122c0c6840800000000000000
+      internalID: 5218559408839088778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_SpriteSheet_Running_23
+      rect:
+        serializedVersion: 2
+        x: 4998
+        y: 37
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5504232513716fc00800000000000000
+      internalID: 933959473325817941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8135f0f86d3b1ab44bede445307296e1, type: 3}
+  m_Name: 3459D106-39D5-4EA9-BFA3-8162783691B7
+  m_EditorClassIdentifier: 
+  objectName: Earth_Music
+  id: 3488712859
+  guid: 3459D106-39D5-4EA9-BFA3-8162783691B7

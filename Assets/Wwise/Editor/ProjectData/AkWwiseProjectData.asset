@@ -1,0 +1,328 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38ec8515bf0ce614a9912865f792ad8a, type: 3}
+  m_Name: AkWwiseProjectData
+  m_EditorClassIdentifier: 
+  AcousticTextureWwu:
+  - PhysicalPath: Virtual Acoustics\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Virtual Acoustics
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Default Work Unit
+      ObjectType: 12
+      guid: 4c2bf62884c2bf4c9938f9f12b71fce3
+    ParentPath: Virtual Acoustics\Default Work Unit
+    guid: 4c2bf62884c2bf4c9938f9f12b71fce3
+    GuidInternal: 
+    m_lastTime: -8585702371101149969
+    List: []
+  AuxBusWwu:
+  - PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Master-Mixer Hierarchy
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Default Work Unit
+      ObjectType: 12
+      guid: b9edc0647e581d438641a61670bc9cec
+    ParentPath: Master-Mixer Hierarchy\Default Work Unit
+    guid: b9edc0647e581d438641a61670bc9cec
+    GuidInternal: 
+    m_lastTime: -8585702371101259931
+    List:
+    - name: Master Audio Bus
+      guid: d8a41415a61d2a41a17e75ca0c2149f3
+      id: 3803692087
+      PathAndIcons:
+      - ElementName: Master-Mixer Hierarchy
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: b9edc0647e581d438641a61670bc9cec
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+        guid: d8a41415a61d2a41a17e75ca0c2149f3
+      Path: Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus
+  BankWwu:
+  - PhysicalPath: SoundBanks\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: SoundBanks
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Default Work Unit
+      ObjectType: 12
+      guid: ea1690ab47e75440942cd75971594020
+    ParentPath: SoundBanks\Default Work Unit
+    guid: ea1690ab47e75440942cd75971594020
+    GuidInternal: 
+    m_lastTime: -8585702371101209952
+    List:
+    - name: Main
+      guid: 1a8c13f1f78a204c88f214408d919037
+      id: 3161908922
+      PathAndIcons:
+      - ElementName: SoundBanks
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: ea1690ab47e75440942cd75971594020
+      - ElementName: Main
+        ObjectType: 7
+        guid: 1a8c13f1f78a204c88f214408d919037
+      Path: SoundBanks\Default Work Unit\Main
+  EventWwu:
+  - PhysicalPath: Events\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Events
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Default Work Unit
+      ObjectType: 12
+      guid: e4e898125934b14997ebf784a016adb2
+    ParentPath: Events\Default Work Unit
+    guid: e4e898125934b14997ebf784a016adb2
+    GuidInternal: 
+    m_lastTime: -8585702371101279921
+    List:
+    - name: Earth_Music
+      guid: 06d15934d539a94ebfa38162783691b7
+      id: 3488712859
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: e4e898125934b14997ebf784a016adb2
+      - ElementName: Earth_Music
+        ObjectType: 3
+        guid: 06d15934d539a94ebfa38162783691b7
+      Path: Events\Default Work Unit\Earth_Music
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Earth_ResumeMusic
+      guid: 1816117a43501942b2efea6434b40a4f
+      id: 1466144084
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: e4e898125934b14997ebf784a016adb2
+      - ElementName: Earth_ResumeMusic
+        ObjectType: 3
+        guid: 1816117a43501942b2efea6434b40a4f
+      Path: Events\Default Work Unit\Earth_ResumeMusic
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Enemy_Hit_SFX
+      guid: 03ecdb5029298d4bb5d9b59474b841df
+      id: 547527757
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: e4e898125934b14997ebf784a016adb2
+      - ElementName: Enemy_Hit_SFX
+        ObjectType: 3
+        guid: 03ecdb5029298d4bb5d9b59474b841df
+      Path: Events\Default Work Unit\Enemy_Hit_SFX
+      maxAttenuation: 0
+      maxDuration: 0.824651
+      minDuration: 0.092399
+    - name: Hell_Music
+      guid: 041cd553fb731f4b9aab49b56f2e4606
+      id: 1141277644
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: e4e898125934b14997ebf784a016adb2
+      - ElementName: Hell_Music
+        ObjectType: 3
+        guid: 041cd553fb731f4b9aab49b56f2e4606
+      Path: Events\Default Work Unit\Hell_Music
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Hell_ResumeMusic
+      guid: ffe60c3bd0d94a43ab03ad49baccfb27
+      id: 2369211907
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: e4e898125934b14997ebf784a016adb2
+      - ElementName: Hell_ResumeMusic
+        ObjectType: 3
+        guid: ffe60c3bd0d94a43ab03ad49baccfb27
+      Path: Events\Default Work Unit\Hell_ResumeMusic
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Player_Attack_SFX
+      guid: 245161da93eb454c92692fe523378f2e
+      id: 3404782617
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: e4e898125934b14997ebf784a016adb2
+      - ElementName: Player_Attack_SFX
+        ObjectType: 3
+        guid: 245161da93eb454c92692fe523378f2e
+      Path: Events\Default Work Unit\Player_Attack_SFX
+      maxAttenuation: 0
+      maxDuration: 0.222187
+      minDuration: 0.222187
+  RtpcWwu:
+  - PhysicalPath: Game Parameters\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Game Parameters
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Default Work Unit
+      ObjectType: 12
+      guid: 636ada6451592747bf0ef1740bd61846
+    ParentPath: Game Parameters\Default Work Unit
+    guid: 636ada6451592747bf0ef1740bd61846
+    GuidInternal: 
+    m_lastTime: -8585702371101269930
+    List: []
+  StateWwu:
+  - PhysicalPath: States\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: States
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Default Work Unit
+      ObjectType: 12
+      guid: 0bb9048d4e347d4fbcbf7f0493a7aae3
+    ParentPath: States\Default Work Unit
+    guid: 0bb9048d4e347d4fbcbf7f0493a7aae3
+    GuidInternal: 
+    m_lastTime: -8585702371101159962
+    List:
+    - name: Earth_or_Hell
+      guid: b303f20018c29f4a9afee19e8d197b2b
+      id: 1950191437
+      PathAndIcons:
+      - ElementName: States
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 0bb9048d4e347d4fbcbf7f0493a7aae3
+      - ElementName: Earth_or_Hell
+        ObjectType: 9
+        guid: b303f20018c29f4a9afee19e8d197b2b
+      Path: States\Default Work Unit\Earth_or_Hell
+      values:
+      - name: Earth
+        guid: b49a6d4b94c78d41bbed6ece1dbcf013
+        id: 3747705955
+        PathAndIcons:
+        - ElementName: States
+          ObjectType: 5
+          guid: 00000000000000000000000000000000
+        - ElementName: Default Work Unit
+          ObjectType: 12
+          guid: 0bb9048d4e347d4fbcbf7f0493a7aae3
+        - ElementName: Earth_or_Hell
+          ObjectType: 9
+          guid: b303f20018c29f4a9afee19e8d197b2b
+        - ElementName: Earth
+          ObjectType: 8
+          guid: b49a6d4b94c78d41bbed6ece1dbcf013
+      - name: Hell
+        guid: cf6333a00e90214c97dc751199ed47e0
+        id: 3632828376
+        PathAndIcons:
+        - ElementName: States
+          ObjectType: 5
+          guid: 00000000000000000000000000000000
+        - ElementName: Default Work Unit
+          ObjectType: 12
+          guid: 0bb9048d4e347d4fbcbf7f0493a7aae3
+        - ElementName: Earth_or_Hell
+          ObjectType: 9
+          guid: b303f20018c29f4a9afee19e8d197b2b
+        - ElementName: Hell
+          ObjectType: 8
+          guid: cf6333a00e90214c97dc751199ed47e0
+      - name: None
+        guid: c13a18a32e364d4c82266bb69097f0eb
+        id: 748895195
+        PathAndIcons:
+        - ElementName: States
+          ObjectType: 5
+          guid: 00000000000000000000000000000000
+        - ElementName: Default Work Unit
+          ObjectType: 12
+          guid: 0bb9048d4e347d4fbcbf7f0493a7aae3
+        - ElementName: Earth_or_Hell
+          ObjectType: 9
+          guid: b303f20018c29f4a9afee19e8d197b2b
+        - ElementName: None
+          ObjectType: 8
+          guid: c13a18a32e364d4c82266bb69097f0eb
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
+  SwitchWwu:
+  - PhysicalPath: Switches\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Switches
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Default Work Unit
+      ObjectType: 12
+      guid: 6774a792eb65bf4ab59a4ce2187fff26
+    ParentPath: Switches\Default Work Unit
+    guid: 6774a792eb65bf4ab59a4ce2187fff26
+    GuidInternal: 
+    m_lastTime: -8585702371101159962
+    List: []
+  TriggerWwu:
+  - PhysicalPath: Triggers\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Triggers
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Default Work Unit
+      ObjectType: 12
+      guid: 3bcf06b5fdcddc48aa572b8c1db09e76
+    ParentPath: Triggers\Default Work Unit
+    guid: 3bcf06b5fdcddc48aa572b8c1db09e76
+    GuidInternal: 
+    m_lastTime: -8585702371101159962
+    List: []
+  ExpandedFileSystemItemIds: 
+  ExpandedWaapiItemIds: 01000000030000000500000006000000070000000b0000000c0000000d0000000e0000000f00000011000000120000001500000017000000
+  AutoSyncSelection: 0
+  autoPopulateEnabled: 1
+  currentDataSource: 0
+  CurrentPluginConfig: 

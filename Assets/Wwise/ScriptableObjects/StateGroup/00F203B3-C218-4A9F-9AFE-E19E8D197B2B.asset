@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c03a07fb11adf934f8207f3565ec892d, type: 3}
+  m_Name: 00F203B3-C218-4A9F-9AFE-E19E8D197B2B
+  m_EditorClassIdentifier: 
+  objectName: Earth_or_Hell
+  id: 1950191437
+  guid: 00F203B3-C218-4A9F-9AFE-E19E8D197B2B
